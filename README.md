@@ -16,7 +16,7 @@ A simple and intuitive web-based image editor that allows you to apply various f
 3. Select flip options to transform your image. 🔄
 4. View the edited image instantly! 👀
 
-Live demo: https://iam269.github.io/Basic-Image-Editor/ 🌐
+Live demo: https://itsiamdev.github.io/Basic-Image-Editor/ 🌐
 
 ## Technologies Used 🛠️
 - HTML5
